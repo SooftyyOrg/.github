@@ -15,8 +15,4 @@ We focus on creating a variety of content—tools, scripts, and games—that are
 
 ---
 
-### A Note from Sooftyy
-
-> "I'm always exploring new ideas, coding what I love or what might be useful. Feel free to dive into the projects, collaborate, or just explore what I create!"
-
 Stay tuned for more updates as I continue to work on new and exciting projects!
